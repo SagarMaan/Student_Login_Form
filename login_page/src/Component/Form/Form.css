@@ -1,0 +1,52 @@
+.container {
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+    background-color: #cf999925;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: #99cbcf25;
+    box-shadow: rgb(rgb(93, 57, 57), green, blue);
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    background-color: #cd4a4a25;
+    box-shadow: #5b04043d 0px 3px 8px;
+    box-shadow: rgba(63, 32, 167, 0.24) 0px 3px 8px;
+  }
+  
+  .student_data {
+    margin: 10px 0;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button[type="submit"] {
+    padding: 200px;
+    margin: 2px;
+    background-color: #e6480a;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  
